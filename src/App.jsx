@@ -468,7 +468,7 @@ export default function App() {
             )}
           </div>
         </div>
-        )}  {/* end practiceMode ternary */}
+        )}
       </div>
 
       {/* ── PROGRESS DRAWER ── */}
