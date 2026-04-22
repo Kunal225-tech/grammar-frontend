@@ -1,6 +1,6 @@
 # Grammify: AI-Powered Writing Assistant & Educational Platform
 
-Grammify is a full-stack, machine-learning-powered application designed to not only correct grammar but to actively teach users how to write better. 
+Grammify is a full-stack, machine-learning-powered application designed to not only correct grammar but to actively teach users how to write and be better. 
 
 Unlike standard text-correction tools, Grammify sits at the intersection of a **productivity tool** and an **educational platform** by featuring a unique, gamified "Practice Mode" where users must identify and correct grammar mistakes themselves to earn points and build learning streaks.
 
